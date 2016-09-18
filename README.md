@@ -6,16 +6,16 @@ Alguns plugins para utilização em seu site ou sistema
 
 Contém os seguintes plugins:
 
-- Calendário
+- Calendário:
   É possivel marcar datas de eventos e ser personalizado
   
-- Data
+- Data:
  Exibe o calendário no campo tipo data e é possível determinar períodos.
  
-- Tabela
+- Tabela:
   Utilizado para exibir informações da tabela com busca e paginador.
   
-- Gráficos
+- Gráficos:
  Utilizado para melhor exibição dos dados com vários tipos de gráficos.
  
 //--- EN-US
@@ -23,14 +23,14 @@ Some plugins for use on your site or system
 
 It contains the following plugins:
 
-- Calendar
+- Calendar:
   It is possible to mark events dates and customized
   
-- Date
+- Date:
  View the Calendar in the data type field and can determine periods .
  
-- Table
+- Table:
   Used to display table information with search and pager.
   
-- Graphics
+- Graphics:
  Used to best display the data with various types of graphs .
