@@ -18,6 +18,8 @@ Contém os seguintes plugins:
 - Gráficos:
  Utilizado para melhor exibição dos dados com vários tipos de gráficos.
  
+
+
 //--- EN-US
 Some plugins for use on your site or system
 
